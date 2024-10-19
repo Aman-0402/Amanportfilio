@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Amanportfilio/static/css/main.57be7ae5.css",
+    "main.js": "/Amanportfilio/static/js/main.096d1768.js",
+    "static/js/453.1407b060.chunk.js": "/Amanportfilio/static/js/453.1407b060.chunk.js",
+    "static/media/five.png": "/Amanportfilio/static/media/five.b06d9af8cf2d62122189.png",
+    "static/media/your-background-image.jpg": "/Amanportfilio/static/media/your-background-image.3f69962d34165e67b543.jpg",
+    "static/media/four.jpg": "/Amanportfilio/static/media/four.cf8c29e169b115a6e848.jpg",
+    "static/media/project2.png": "/Amanportfilio/static/media/project2.b06095db4574da047b7d.png",
+    "static/media/Watermarking.jpg": "/Amanportfilio/static/media/Watermarking.7be71da9a640d752bc64.jpg",
+    "static/media/resume.pdf": "/Amanportfilio/static/media/resume.be386cacaf54ffe20f8b.pdf",
+    "static/media/project1.jpg": "/Amanportfilio/static/media/project1.98ea3771ae1cf210c7ef.jpg",
+    "static/media/profile-photo.jpg": "/Amanportfilio/static/media/profile-photo.06ec283d0875d08d0706.jpg",
+    "static/media/comingsoon.png": "/Amanportfilio/static/media/comingsoon.a95526fa07f1b7af19cd.png",
+    "static/media/profile.jpeg": "/Amanportfilio/static/media/profile.d6453e46d10fe97a48bd.jpeg",
+    "index.html": "/Amanportfilio/index.html",
+    "main.57be7ae5.css.map": "/Amanportfilio/static/css/main.57be7ae5.css.map",
+    "main.096d1768.js.map": "/Amanportfilio/static/js/main.096d1768.js.map",
+    "453.1407b060.chunk.js.map": "/Amanportfilio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57be7ae5.css",
+    "static/js/main.096d1768.js"
+  ]
+}
